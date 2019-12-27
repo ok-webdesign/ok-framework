@@ -1,0 +1,17 @@
+// grid system 
+// 12 column based system
+// 100/12 = 8.333% of screen per column
+$gird-column-size: 8.3333333333;
+
+.col-wid-01 {width: $gird-column-size * 1;}
+.col-wid-02 {width: $gird-column-size * 2;}
+.col-wid-03 {width: $gird-column-size * 3;}
+.col-wid-04 {width: $gird-column-size * 4;}
+.col-wid-05 {width: $gird-column-size * 5;}
+.col-wid-06 {width: $gird-column-size * 6;}
+.col-wid-07 {width: $gird-column-size * 7;}
+.col-wid-08 {width: $gird-column-size * 8;}
+.col-wid-09 {width: $gird-column-size * 9;}
+.col-wid-10 {width: $gird-column-size * 10;}
+.col-wid-11 {width: $gird-column-size * 11;}
+.col-wid-12 {width: $gird-column-size * 12;}
